@@ -1,0 +1,2426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FinalDraft DocumentType="Text" Template="No" Version="4">
+
+  <Content>
+    <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="18" Style="Bold+Underline+AllCaps">2021-06-09 Desperate Remedies -- Scene Report</Text>
+    </Paragraph>
+    <Paragraph Alignment="Center" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="18" Style="Bold+Underline+AllCaps"></Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+AllCaps">Scene #	Scene Heading	Page #	Length</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">0		1	6/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">Young man (1), Young woman (3)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">1	EXT. STREET - DAY	1	3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">2	INT. TOWN HALL - DAY	2	5/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (2)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">3	EXT.  CHURCH SPIRE - DAY	2	4/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">MR. GRAYE SNR. (1)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">4	INT.  TOWN HALL - DAY	3	2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (1)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">5	EXT.  STREET - DAY	3	2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">6	INT.  MR. GREYE'S HOUSE/STUDY - DAY	3	1 1/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (3), OWEN (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">7	INT. MR. GRAYE SNR.’S HOUSE/SITTING ROOM...	4	1 7/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (7), OWEN (7)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">8	EXT.  LOCAL MARKET - DAY	6	6/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">9	EXT.  MR. GREYE'S HOUSE/SITTING ROOM - DAY	7	1 2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (3), OWEN (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">10	INT. MR. GREY'S HOUSE/KITCHEN - DAY	8	6/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (2), OWEN (2)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">11	EXT. MR. GRAYE SNR.’S HOUSE/PAVEMENT OUT...	9	4/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">12	INT. TRAIN - DAY	9	3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">13	INT.  MR. GRADFIELD'S OFFICE - DAY	9	2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">14	INT. THE GREYE'S LODGINGS/LIVING ROOM - DAY	10	2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">15	EXT.  CRESTON BEACH - DAY	10	4/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">16	INT. GRAYE'S LODGING/LIVING ROOM. - DAY	10	1 3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (6), OWEN (6)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">17	INT. POST OFFICE - DAY	12	3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">18	INT. GREY'S LODGINGS/LIVING ROOM - DAY	12	1 4/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (7), OWEN (7)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">19	INT.  POST OFFICE - DAY	13	2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">20	EXT. THE SEA SHORE - DAY	14	3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">21	INT.  GRAY'S LODGINGS/LIVING ROOM - EVENING	14	1 1/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (5), OWEN (5)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">22	EXT.  CRESTON/STREET - DAY	15	1/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">23	EXT. CRESTON/ HILL NEAR COAST - DAY	15	1 1/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (2), OWEN (3)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">24	EXT.  CRESTON/HARBOUR - EVENING	16	7/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CAPT. JACOBS (1), CYTHEREA (3), ELDERLY FEMALE PASSENGER (1)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">25	EXT.  CRESTON HARBOUR/BOAT	17	1 2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CAPT. JACOBS (1), CYTHEREA (4), SPRINGROVE JR. (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">26	EXT.  CRESTON HARBOUR - NIGHT	18	4/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (2), SPRINGROVE JR. (2)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">27	EXT. OUTSIDE CRESTON TRAIN STATION - NIGHT	19	7/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (3), SPRINGROVE JR. (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">28	EXT.  CRESTON/OUTSIDE GRAYE'S LODGINGS -...	19	3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">SPRINGROVE JR. (1)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">29	INT. GREY'S LODGINGS/LIVING ROOM - DAY	20	1 2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (5), OWEN (6)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">30	EXT.CRESTON/BEACH - DAY	21	1 2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (6), OWEN (6)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">31	INT.  GRAYE'S LODGINGS/LIVING ROOM - DAY	22	1 3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (7), OWEN (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">32	EXT.  CRESTON/PROMENADE - EVENING	24	5/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (1), OWEN (1), SPRINGROVE JR. (1)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">33	EXT. CRESTON/PIER - EVENING	24	4/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">34	EXT. CRESTON/PIER AND BAY - EVENING	24	2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">35	EXT. CRESTON/PIER - EVENING	25	3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">36	INT.  GRAYE'S LODGINGS/LIVING ROOM - DAY	25	1 2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (2), OWEN (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">37	EXT.  CRESTON STREET AND PIER - DAY	26	1</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (1), SPRINGROVE JR. (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">38	EXT.  CRESTON BAY - EVENING	27	1 3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (3), SPRINGROVE JR. (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">39	EXT.  CRESTON STREETS - EVENING	28	2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">40	EXT.  LODGING DOORWAY AND STREETS - EVENING	29	3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">41	INT. GREYE'S LODGINGS/CYTHEREA'S BEDROOM...	29	2</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (10), OWEN (8)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">42	INT.  CRESTON/HOTEL - DAY	31	5/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">MAID (2), MISS. ALDCLYFFE (1)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">43	INT.  HOTEL/BEDROOM - DAY	31	1 3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (4), MISS. ALDCLYFFE (7)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">44	EXT.  OUTSIDE OF RAILWAY STATION - DAY	33	4/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">COACHMAN (2), CYTHEREA (1)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">45	INT/EXT. PONY CARRIAGE - DAY	33	2 2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">COACHMAN (9), CYTHEREA (8), MRS. MORRIS (1), SPRINGROVE JR. (1)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">46	INT.  HALLWAYS IN SERVANTS WING - DAY	36	1</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (4), MRS. MORRIS (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">47	INT.  KNAPWATER HOUSE/MRS. ALDCLYFFE'S B...	37	1 1/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (1), MISS. ALDCLYFFE (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">48	INT.  KNAPWATER HOUSE/DRESSING ROOM - NIGHT	38	2 6/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (8), MISS. ALDCLYFFE (14)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">49	INT.  KNAPWATER HOUSE/CYTHEREA'S BEDROOM...	41	2 3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (6), MISS. ALDCLYFFE (11)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">50	INT.  KNAPWATER HOUSE/MORNING ROOM - DAY	43	1 1/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (4), MRS. MORRIS (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">51	EXT. KNAPWATER HOUSE/ GARDENS - DAY	44	2 2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (6), MISS. ALDCLYFFE (12)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">52	INT. ADELAID HINTON'S HOUSE / SITTING RO...	46	2 5/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">ADELAIDE (11), CYTHEREA (7)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">53	EXT. THE THREE TRANTERS/FIELD OUTSIDE - DAY	49	1 7/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (2), FARMER SPRINGROVE (8), PEASANT (5)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">54	EXT. KNAPWATER ESTATE/WOODS NEAR OLD HOU...	51	1 7/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (3), MR. MANSTON (6)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">55	INT. OLD HOUSE/PARLOUR - DAY	53	1 2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (4), MR. MANSTON (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">56	INT.  KNAPWATER HOUSE/DRAWING ROOM - DAY	54	1 4/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (7), MISS. ALDCLYFFE (6)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">57	I/E. MONTAGE: CHURCH/DRAWING ROOM/GARDEN...	55	3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">58	EXT.  CONTINUOUS: KNAPWATER HOUSE/WOODS ...	56	1 1/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">GARDENER (3), MR. MANSTON (6)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">59	EXT. CARRIFORD ROAD - DAY	57	1 3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (7), OWEN (6)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">60	INT.  KNAPWATER HOUSE/MISS. ALDCLYFFE’S ...	58	6/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">MRS. MANSTON (1)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">61	INT.  KNAPWATER HOUSE/LIBRARY - EVENING	59	1 3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">MISS. ALDCLYFFE (5), MR. MANSTON (3)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">62	INT.  MANSTON'S DINING ROOM - DAY	60	1 2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">HOUSEKEEPER (4), MR. MANSTON (5)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">63	EXT. KNAPWATER ESTATE/CARPENTER'S YARD -...	62	7/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CARPENTER (4), MR. MANSTON (3)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">64	INT.  MANSTON'S HOUSE/DINING ROOM - DAY	62	4/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">HOUSEKEEPER (2), MR. MANSTON (2)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">65	EXT.  KNAPWATER HOUSE/FRONT DRAG - DAY	63	3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">66	EXT. CARRIFORD ROAD STATION - EVENING	63	3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">67	EXT.  OLD MANOR HOUSE - NIGHT	64	3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">68	INT.  THE THREE TRANTERS - NIGHT	64	1 1/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">EFFIE (3), FARMER SPRINGROVE (2), MRS. MANSTON (3)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">69	INT.  THE THREE TRANTERS/KITCHEN - NIGHT	65	1</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">FARMER SPRINGROVE (4), HOUSEKEEPER (2), PORTER (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">70	EXT. FARMSTEAD - NIGHT	66	3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">71	EXT. END VILLAGE HIGH STREET - NIGHT	66	6/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">WOMAN (1)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">72	EXT.  THREE TRANTERS - NIGHT	67	1 1/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">FARMER SPRINGROVE (1), MAN (2), WOMAN 1 (3), WOMAN 2 (1)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">73	EXT. CARRIFORD ROAD STATION/OUTSIDE - NIGHT	68	1 3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">LABOURER (4), MR. MANSTON (4), PORTER (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">74	EXT.  CARRIFORD/OUTSIDE CHURCH - NIGHT	69	1 3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">FARMER SPRINGROVE (1), MR. MANSTON (4), RECTOR (3)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">75	INT.  CHURCH - NIGHT	71	1 4/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">FARMER SPRINGROVE (5), SPRINGROVE JR. (3)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">76	EXT.  KNAPWATER HOUSE/THE LAWNS IN FRONT...	72	2 5/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">MISS. ALDCLYFFE (11), MR. MANSTON (10)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">77	INT.  TRAVELLER'S REST INN/MAIN ROOM - DAY	75	5/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">78	EXT.  CARRIFORD/A ROAD - DAY	76	1 6/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">FARMER SPRINGROVE (4), MR. MANSTON (5), SPRINGROVE JR. (2)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">79	EXT.  KNAPWATER HOUSE/WOODS IN PARK - DAY	77	2</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">MISS. ALDCLYFFE (9), SPRINGROVE (1), SPRINGROVE JR. (5)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">80	INT.  ADELAIDE'S HOUSE/SITTING ROOM - DAY	79	1 2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">ADELAIDE (2), CYTHEREA (1), FARMER SPRINGROVE (1), SPRINGROVE JR. (2)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">81	INT.  KNAPWATER HOUSE/MISS. ALDCLYFFE’S </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">...</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">	80	7/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (1), MISS. ALDCLYFFE (1), SPRINGROVE JR. (2)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">82	INT/EXT. CARRIFORD/KNAPWATER HOUSE - DAY	81	5/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">83	EXT.  KNPAWATER HOUSE/LAKE IN GARDENS - DAY	82	1 4/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (6), MISS. ALDCLYFFE (7)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">84	EXT.  KNAPWATER HOUSE/FRONT DRIVE - DAY	83	4/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">85	INT.  KNAPWATER HOUSE/BREAKFAST ROOM - DAY	84	5/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">OWEN (1)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">86	INT.  CRESTON/OWEN'S LODGING BEDROOM - DAY	84	3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">87	EXT.  KNAPWATER HOUSE/GARDENS - DAY	85	1 1/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (4), MISS. ALDCLYFFE (5)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">88	INT.  CRESTON/OWEN'S BEDROOM - DAY	86	5/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">OWEN (1)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">89	EXT. CARRIFORD ROAD STATION/OUTSIDE OF F...	87	1</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (3), MR. MANSTON (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">90	EXT. KNAPWATER HOUSE/FRONT DRIVE - EVENING	88	7/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (2), MR. MANSTON (3)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">91	INT.  KNAPWATER HOUSE/BREAKFAST ROOM - M...	88	6/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (1), MISS. ALDCLYFFE (1), OWEN (1)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">92	INT.  CARRIFORD/CHURCH - DAY	89	2 1/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (7), MR. MANSTON (10)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">93	EXT.  OUTSIDE OF CHURCH - DAY	91	7/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (1), MR. MANSTON (1), OWEN (1)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">94	EXT.  KNAPWATER HOUSE/GARDEN - DAY	92	2 3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (9), MR. MANSTON (1), OWEN (2), SPRINGROVE JR. (6)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">95	EXT.  OUTSIDE OF DAIRY BARN - DAY	95	1 5/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">DAIRYMAN (3), OWEN (4), RECTOR (2), SPRINGROVE JR. (3)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">96	INT. CARRIFORD RAILWAY STATION/TICKET OF...	96	5/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">SPRINGROVE JR. (3), TICKET COLLECTOR (3)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">97	EXT.  SOUTHAMPTON STATION - EVENING	97	2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">98	INT.  SOUTHAMPTON HOTELS - EVENING	97	2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">99	INT.  HOTEL - EVENING	97	3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">HOTELIER (1), SPRINGROVE JR. (1)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">100	INT.  HOTEL/SUITE 13 - EVENING	98	1 1/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (5), HOTELIER (1), SPRINGROVE JR. (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">101	INT.  HOTEL/CORRIDOR - EVENING	99	5/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (2), SPRINGROVE JR. (1)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">102	INT.  HOTEL/MANSTON'S BEDROOM - NIGHT	99	1 6/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (4), MR. MANSTON (4), OWEN (5), SPRINGROVE JR. (1)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">103	INT.  CARRIFORD RECTORY/STUDY - DAY	101	1 2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">MR. MANSTON (5), RECTOR (5)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">104	EXT. KNAPWATER HOUSE/GARDENS - EVENING	102	1</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">MISS. ALDCLYFFE (2), MR. MANSTON (5), RECTOR (2)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">105	INT.  MR. RECTOR’S HOUSE/STUDY - DAY	103	1 2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">MR. MANSTON (4), RECTOR (3)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">106	INT.  OLD HOUSE/DINING ROOM - DAY	104	1 5/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">DICKSON (6), MR. MANSTON (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">107	EXT.  CARRIFORD - DAY	106	4/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">108	EXT.  PALCHURCH COTTAGE - DAY	106	5/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (1), OWEN (2)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">109	EXT. PALCHURCH COTTAGE/SHED - DAY	107	2 5/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">OWEN (10), SPRINGROVE JR. (10)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">110	INT.  PALCHURCH COTTAGE/LIVING ROOM - DAY	110	1 5/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (8), OWEN (6)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">111	INT. PALCHURCH COTTAGE/OWEN’S BEDROOM - ...	111	1 4/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">LANDLADY (3), OWEN (1), SPRINGROVE JR. (3)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">113	INT.  SPRINGROVE’S LIVING ROOM - EVENING	113	6/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">EUNICE (1)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">114	EXT. A PALCHURCH LANE, JUST OUTSIDE OF T...	113	6/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">MR. MANSTON (1), POSTMAN (3)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">115	INT.  PALCHURCH COTTAGE - DAY	114	1 5/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (4), OWEN (7)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">116	EXT. CARRIFORD/ROAD OUTSIDE OF OLD HOUSE...	116	1 3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">MRS. MANSTON (4), OWEN (5)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">117	EXT.  PALCHURCH COTTAGE/FRONT PATH - DAY	117	3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">118	INT. CARRIFORD RECTORY/STUDY - EVENING	117	1 6/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">MAID (1), RECTOR (7), SPRINGROVE JR. (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">119	INT. THE OLD HOUSE/SITTING ROOM - EVENING	119	1 2/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">MR. MANSTON (4), MRS. MANSTON (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">120	EXT. OLD HOUSE/OUTSIDE - NIGHT	120	5/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">121	EXT. OLD HOUSE/MILL - DAY	121	3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">122	EXT/INT. OLD HOUSE - DAY	121	3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">123	EXT. FROOMINSTER/STREET - DAY	122	1 1/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">BOY (1), FARMER BAKER (3), FARMER SPRINGROVE (3)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">124	INT.  KNAPWATER HOUSE/MISS. ALDCLYFFE’S </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">...</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">	123	1 1/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (2), MISS. ALDCLYFFE (4)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">125	EXT.  KNAPWATER HOUSE/LAKE - DAY	124	3/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="14" Style="Bold+Italic+Underline+AllCaps"></Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="14" Style="Bold+Italic+Underline+AllCaps">Longest Scene: </Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">48	INT.  KNAPWATER HOUSE/DRESSING ROOM - NIGHT	38	2 6/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.93" RightIndent="6.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+Italic+AllCaps">CYTHEREA (8), MISS. ALDCLYFFE (14)</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="14" Style="Bold+Italic+Underline+AllCaps"></Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="14" Style="Bold+Italic+Underline+AllCaps">Shortest Scene:</Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps"></Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Bold+AllCaps">22	EXT.  CRESTON/STREET - DAY	15	1/8</Text>
+      <Tabstops>
+        <Tabstop Position="1.68" Type="Left"/>
+        <Tabstop Position="7.49" Type="Right"/>
+        <Tabstop Position="6.72" Type="Right"/>
+      </Tabstops>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="14" Style="Bold+Italic+Underline+AllCaps"></Text>
+    </Paragraph>
+    <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="7.50" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="14" Style="Bold+Italic+Underline+AllCaps">Last Page: 124</Text>
+    </Paragraph>
+  </Content>
+
+  <Watermarking Opacity="70" Position="Diagonal Descending">
+    <DynamicContent>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="0.00" RightIndent="1.39" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
+      </Paragraph>
+    </DynamicContent>
+    <Distribution/>
+    <WatermarkImage Height="144"></WatermarkImage>
+  </Watermarking>
+
+  <HeaderAndFooter FooterFirstPage="Yes" FooterVisible="Yes" HeaderFirstPage="No" HeaderVisible="Yes" StartingPage="1">
+    <Header>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+AllCaps">2021-06-09 Desperate Remedies -- Scene Report	</Text>
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+AllCaps" Type="Page #"/>
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+AllCaps"></Text>
+        <Tabstops>
+          <Tabstop Position="7.49" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+AllCaps"></Text>
+        <Tabstops>
+          <Tabstop Position="7.49" Type="Right"/>
+          <Tabstop Position="1.68" Type="Left"/>
+          <Tabstop Position="6.72" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+AllCaps">Scene #	Scene Heading	Page #	Length</Text>
+        <Tabstops>
+          <Tabstop Position="7.49" Type="Right"/>
+          <Tabstop Position="1.68" Type="Left"/>
+          <Tabstop Position="6.72" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+      <Paragraph Alignment="Left" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+AllCaps"></Text>
+        <Tabstops>
+          <Tabstop Position="7.49" Type="Right"/>
+          <Tabstop Position="1.68" Type="Left"/>
+          <Tabstop Position="6.72" Type="Right"/>
+        </Tabstops>
+      </Paragraph>
+    </Header>
+    <Footer>
+      <Paragraph Alignment="Right" FirstIndent="0.00" Leading="Regular" LeftIndent="1.00" RightIndent="-1.00" SpaceBefore="0" Spacing="1" StartsNewPage="No">
+        <DynamicLabel AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="Bold+AllCaps" Type="Date"/>
+      </Paragraph>
+    </Footer>
+  </HeaderAndFooter>
+
+  <SpellCheckIgnoreLists>
+    <IgnoredRanges/>
+    <IgnoredWords/>
+  </SpellCheckIgnoreLists>
+
+  <PageLayout BackgroundColor="#FFFFFFFFFFFF" BottomMargin="72" DocumentLeading="Normal" FooterMargin="36" ForegroundColor="#000000000000" HeaderMargin="36" InvisiblesColor="#A0A0A0A0A0A0" TopMargin="72" UsesSmartQuotes="No">
+    <PageSize Height="11.69" Width="8.26"/>
+  </PageLayout>
+
+  <WindowState Height="397" Left="182" Mode="Maximized" Top="182" Width="1238"/>
+
+  <TextState Scaling="75" Selection="0,0" ShowInvisibles="No"/>
+
+  <Images Hidden="0"/>
+
+</FinalDraft>
